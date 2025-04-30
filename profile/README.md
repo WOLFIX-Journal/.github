@@ -1,28 +1,27 @@
-# Welcome to Wolfix Journal
+# WOLFIX Journal
 
-## About Us
+🚀 Building the future through collaborative knowledge sharing and open source development.
 
-Wolfix Journal is a community-driven platform dedicated to sharing knowledge, insights, and discoveries across technology, science, and innovation. We believe in the power of collaborative learning and open source development to create meaningful solutions.
+## About
 
-## Our Mission
-
-To foster a collaborative environment where developers, researchers, and enthusiasts can share ideas, build projects, and grow together while making valuable contributions to the tech community.
-
-## What We Do
-
-- 📚 **Open Source Projects**: We develop and maintain a collection of open source tools, libraries, and applications
-- 🔍 **Technical Journals**: We publish in-depth articles, case studies, and technical papers
-- 🌱 **Learning Resources**: We create tutorials, guides, and educational content for developers at all skill levels
-- 🤝 **Community Collaboration**: We encourage participation and contributions from developers worldwide
+WOLFIX Journal is a community-driven platform focused on technology, science, and innovation. We create open source projects and technical content for developers at all skill levels.
 
 ## How to Contribute
 
-We welcome contributions from developers of all skill levels! Check out our issues page to find something you'd like to work on, or submit your own ideas.
+We welcome contributions from developers of all skill levels! Here's how you can get involved:
 
-## Community
+1. Check out our [Contributing Guidelines](https://github.com/WOLFIX-Journal/.github/blob/main/CONTRIBUTING.md)
+2. Read our [Code of Conduct](https://github.com/WOLFIX-Journal/.github/blob/main/CODE_OF_CONDUCT.md)
+3. Find an issue to work on or submit your ideas
+4. Submit a pull request using our [PR template](https://github.com/WOLFIX-Journal/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
+
+## Community Resources
 
 - 🌐 **Website**: [https://itswolfix-journal.web.app/](https://itswolfix-journal.web.app/)
+- 📋 **Report a Bug**: [Bug Report Template](https://github.com/WOLFIX-Journal/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)
+- 📜 **Code of Conduct**: [Our Community Standards](https://github.com/WOLFIX-Journal/.github/blob/main/CODE_OF_CONDUCT.md)
+- 🤝 **How to Contribute**: [Contributing Guidelines](https://github.com/WOLFIX-Journal/.github/blob/main/CONTRIBUTING.md)
 
 ---
 
-© 2025 Wolfix Journal. All rights reserved.
+© 2025 WOLFIX Journal. All rights reserved.
