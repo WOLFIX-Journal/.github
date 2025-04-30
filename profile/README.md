@@ -22,6 +22,11 @@ We welcome contributions from developers of all skill levels! Here's how you can
 - 📜 **Code of Conduct**: [Our Community Standards](https://github.com/WOLFIX-Journal/.github/blob/main/CODE_OF_CONDUCT.md)
 - 🤝 **How to Contribute**: [Contributing Guidelines](https://github.com/WOLFIX-Journal/.github/blob/main/CONTRIBUTING.md)
 
+## Connect with WOLFIX Journal
+
+- Website: [https://itswolfix-journal.web.app/](https://itswolfix-journal.web.app/)
+- GitHub: [WOLFIX-Journal](https://github.com/WOLFIX-Journal)
+
 ---
 
 © 2025 WOLFIX Journal. All rights reserved.
